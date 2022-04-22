@@ -1,0 +1,12 @@
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\bin\Debug\Sistema_Vendas.exe.config
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\bin\Debug\Sistema_Vendas.exe
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\bin\Debug\Sistema_Vendas.pdb
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.csproj.AssemblyReference.cache
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.Form1.resources
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.Properties.Resources.resources
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.csproj.GenerateResource.cache
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.csproj.CoreCompileInputs.cache
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.exe
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.pdb
+C:\Users\AlunoMicrocamp\source\repos\Sistema_Vendas\Sistema_Vendas\obj\Debug\Sistema_Vendas.Form2.resources
